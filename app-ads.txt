@@ -1,0 +1,2 @@
+# App-ads.txt xxxtools.online
+google.com, pub-1074149654388938, DIRECT, f08c47fec0942fa0
